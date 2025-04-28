@@ -1,1 +1,1 @@
-Script do projeto de automatização, e o que ele faz? É bem simples ele entra no site de ofertas do mercado escolhe o lugar percorre por todas as ofertas que tem, baixa e depois envia para o whatsapp
+Script do projeto de automatização, e o que ele faz? É bem simples ele entra no site de ofertas do mercado escolhe o lugar percorre por todas as ofertas que tem, baixa e depois envia para o whatsapp. Postei um video do funcionamento do script no LinkedLn 
